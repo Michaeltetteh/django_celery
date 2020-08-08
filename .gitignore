@@ -1,0 +1,27 @@
+__pychache__/
+
+*.pyc
+
+db.sqlite3
+__pycache__/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+venv/
+venv/.*
+
+Pipfile
+Pipfile.lock
+
+# Django stuff:
+*.log
+*.sqlite3
+*.backup
+
+# IDE / development files
+.idea/
+*.code-workspace
+.vscode/
